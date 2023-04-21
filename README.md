@@ -1,5 +1,4 @@
-# RocnikovaPrace
-### Moje ročníková práce
+# Moje ročníková práce
 
 ## Postup pro zapnutí:
 
